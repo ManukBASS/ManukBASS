@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Manu Zarraga</h1>
 <h3 align="center">A passionate Front-End Developer and future Full-Stack Developer from Argentina</h3>
 
-- 🌱 I’m currently learning **ReactJS | SASS**
+- 🌱 I’m currently learning **ReactJS | Redux | SASS**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-ten-orpin-92.vercel.app/](https://portfolio-ten-orpin-92.vercel.app/)
 

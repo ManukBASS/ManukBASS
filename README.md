@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **ReactJS | Redux | SASS**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-ten-orpin-92.vercel.app/](https://portfolio-ten-orpin-92.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://portfolio-mzarraga.vercel.app/](https://portfolio-mzarraga.vercel.app/)
 
 - 📫 How to reach me **manuzarraga@hotmail.com**
 

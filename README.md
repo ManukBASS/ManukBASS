@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Manu Zarraga</h1>
 <h3 align="center">A passionate Front-End Developer and future Full-Stack Developer from Argentina</h3>
 
-- 🌱 I’m currently learning **React Native | Firebase | SupaBase**
+- 🌱 I’m currently learning **React Native | Firebase | Supabase**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-mzarraga.vercel.app/](https://portfolio-mzarraga.vercel.app/)
 
